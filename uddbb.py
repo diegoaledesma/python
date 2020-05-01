@@ -6,9 +6,6 @@ from tkinter import filedialog
 from tkinter import Menu
 from tkinter import messagebox
 from tkinter import ttk
-
-# pip3 install xlrd
-# pip3 install pillow
 from PIL import Image, ImageTk
 
 #
