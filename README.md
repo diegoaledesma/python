@@ -5,4 +5,4 @@ El objetivo de este programa es unificar archivos de bases de datos en formato x
 El formato de salida puede ser xlsx o csv.
 
 ## Librerias necesarias
- - apt install -y python3-pandas python3-tk python3-pillow
+ - apt install -y python3-pandas python3-tk python3-pillow python3-openpyxl python3-xlrd
